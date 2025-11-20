@@ -1,0 +1,39 @@
+{
+  "Connections": [
+    {
+      "Protocol": "tcp",
+      "Local Address": "0.54.238.135:3600007",
+      "Remote Address": "0.0.0.0:0",
+      "State": "LISTEN",
+      "PID": 0
+    },
+    {
+      "Protocol": "tcp",
+      "Local Address": "0.0.0.0:0",
+      "Remote Address": "0.0.0.0:0",
+      "State": "LISTEN",
+      "PID": 0
+    },
+    {
+      "Protocol": "udp",
+      "Local Address": "0.53.103.231:3500007",
+      "Remote Address": "0.0.0.0:0",
+      "State": "",
+      "PID": 0
+    },
+    {
+      "Protocol": "udp",
+      "Local Address": "0.0.0.0:0",
+      "Remote Address": "0.0.0.0:0",
+      "State": "",
+      "PID": 0
+    },
+    {
+      "Protocol": "udp",
+      "Local Address": "0.1.134.167:100007",
+      "Remote Address": "0.0.0.0:0",
+      "State": "",
+      "PID": 0
+    }
+  ]
+}

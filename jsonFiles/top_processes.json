@@ -1,0 +1,25 @@
+{
+  "Top Processes": [
+    {
+      "PID": 299,
+      "Name": "(bash)",
+      "Total Time": 402
+      "User Time": 11
+      "CmdLine": "-bash"
+    },
+    {
+      "PID": 1,
+      "Name": "(systemd)",
+      "Total Time": 197
+      "User Time": 44
+      "CmdLine": "/sbin/init"
+    },
+    {
+      "PID": 98,
+      "Name": "(systemd-udevd)",
+      "Total Time": 93
+      "User Time": 62
+      "CmdLine": "/usr/lib/systemd/systemd-udevd"
+    }
+  ]
+}

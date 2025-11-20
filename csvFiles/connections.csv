@@ -1,0 +1,6 @@
+Connections,Protocol,Local Address,Remote Address,State,PID
+Connections,tcp,0.54.238.135:3600007,0.0.0.0:0,LISTEN,0
+Connections,tcp,0.0.0.0:0,0.0.0.0:0,LISTEN,0
+Connections,udp,0.53.103.231:3500007,0.0.0.0:0,,0
+Connections,udp,0.0.0.0:0,0.0.0.0:0,,0
+Connections,udp,0.1.134.167:100007,0.0.0.0:0,,0
